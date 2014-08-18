@@ -1,6 +1,13 @@
 {
   "name": "ShadowDOM",
-  "version": "0.0.1",
+  "description": "Polyfill for W3C Shadow DOM Specification",
+  "version": "0.3.5",
+  "author": "Polymer Authors",
+  "license": "BSD",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/tachyon1337/ShadowDOM.git"
+   },
   "devDependencies": {
     "mocha": ">=1.9",
     "chai": "*",

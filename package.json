@@ -1,5 +1,5 @@
 {
-  "name": "Polymer-ShadowDOM",
+  "name": "polymer-shadowdom",
   "description": "Polyfill for W3C Shadow DOM Specification",
   "version": "0.3.5",
   "author": "Polymer Authors",
